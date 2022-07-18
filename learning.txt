@@ -4,3 +4,5 @@ lunes1
 martes1
 miercoles1
 jueves1
+viernes1
+sabado1
