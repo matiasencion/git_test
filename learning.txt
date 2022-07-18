@@ -1,2 +1,5 @@
 Primer envio a git, vamos a ver como sale!
 
+lunes1
+martes1
+miercoles1
